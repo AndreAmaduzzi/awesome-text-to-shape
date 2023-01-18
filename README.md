@@ -29,3 +29,8 @@ The methods which are able to generate 3D data from text can be categorized by t
 ### Mesh
 
 ### Neural Field
+
+## Datasets
+* Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings
+  
+  [Web page](http://text2shape.stanford.edu/)
