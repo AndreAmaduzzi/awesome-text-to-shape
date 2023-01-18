@@ -22,6 +22,9 @@ The methods which are able to generate 3D data from text can be categorized by t
 ### Point Cloud
 
 ### Voxel
+* Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings
+  
+  [ArXiv 2018](https://arxiv.org/abs/1803.08495) | [Code](https://github.com/kchen92/text2shape/) | [Project](http://text2shape.stanford.edu/)
 
 ### Mesh
 
