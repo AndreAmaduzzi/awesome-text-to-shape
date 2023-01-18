@@ -15,3 +15,14 @@ This repository collects works which connect text to 3D data. Overall, this coll
   * Neural Field
 * Datasets
 * Surveys 
+
+## Text-driven Shape Generation
+The methods which are able to generate 3D data from text can be categorized by the representation they use.
+
+### Point Cloud
+
+### Voxel
+
+### Mesh
+
+### Neural Field
