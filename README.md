@@ -29,6 +29,10 @@ The methods which are able to generate 3D data from text can be categorized by t
 * Clip-Forge
 
   [CVPR 2022](https://arxiv.org/abs/2110.02624) | [Code](https://github.com/AutodeskAILab/Clip-Forge)
+  
+* Towards Implicit Text-Guided 3D Shape Generation
+  
+  [CVPR 2022](https://arxiv.org/abs/2203.14622) | [Code](https://github.com/liuzhengzhe/Towards-Implicit-Text-Guided-Shape-Generation)
 
 ### Mesh
 
