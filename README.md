@@ -14,6 +14,7 @@ This repository collects works which connect text to 3D data. Overall, this coll
   * Mesh
   * Neural Field
 * Datasets
+* Evaluation Metrics
 * Surveys 
 
 ## Text-driven Shape Generation
