@@ -26,6 +26,10 @@ The methods which are able to generate 3D data from text can be categorized by t
   
   [ArXiv 2018](https://arxiv.org/abs/1803.08495) | [Code](https://github.com/kchen92/text2shape/) | [Project](http://text2shape.stanford.edu/)
 
+* Clip-Forge
+
+  [CVPR 2022](https://arxiv.org/abs/2110.02624) | [Code](https://github.com/AutodeskAILab/Clip-Forge)
+
 ### Mesh
 
 ### Neural Field
