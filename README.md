@@ -1,2 +1,2 @@
-# awesome-text-to-shape
-A curated list of awesome text-to-shape papers
+# Awesome Text-to-Shape
+A collection of resources on text-to-shape tasks.
