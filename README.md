@@ -36,6 +36,9 @@ The methods which are able to generate 3D data from text can be categorized by t
   [CVPR 2022](https://arxiv.org/abs/2203.14622) | [Code](https://github.com/liuzhengzhe/Towards-Implicit-Text-Guided-Shape-Generation)
 
 ### Mesh
+* ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model
+
+  [ArXiv 2022](https://arxiv.org/abs/2207.09446) | [Code](https://github.com/FreddieRao/ShapeCrafter) | [Project](https://ivl.cs.brown.edu/#/projects/shapecrafter)
 
 ### Neural Field
 * DreamFusion
