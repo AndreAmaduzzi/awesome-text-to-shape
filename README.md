@@ -39,9 +39,12 @@ The methods which are able to generate 3D data from text can be categorized by t
 
 ### Neural Field
 * DreamFusion
+
 [ArXiv 2022](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/)
+
 * Magic3D
-[Project](https://deepimagination.cc/Magic3D/)
+
+[ArXiv 2022](https://arxiv.org/abs/2211.10440) | [Project](https://deepimagination.cc/Magic3D/)
 
 
 ## Datasets
