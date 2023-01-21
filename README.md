@@ -66,7 +66,7 @@ The methods which are able to generate 3D data from text can be categorized by t
 
 * Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models
 
-  [ArXiv 2022](https://arxiv.org/abs/2212.14704) | [Project] (https://bluestyle97.github.io/dream3d/)
+  [ArXiv 2022](https://arxiv.org/abs/2212.14704) | [Project](https://bluestyle97.github.io/dream3d/)
 
 
 ## Datasets
