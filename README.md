@@ -47,6 +47,10 @@ The methods which are able to generate 3D data from text can be categorized by t
 
   [CVPR 2022](https://arxiv.org/abs/2203.09516) | [Code](https://github.com/yccyenchicheng/AutoSDF/) | [Project](https://yccyenchicheng.github.io/AutoSDF/) 
 
+* ISS: Image as stepping stone for Text-Guided 3D Shape Generation
+
+  [ArXiv 2022] https://arxiv.org/abs/2209.04145 
+
 ### Neural Field
 * DreamFusion
 
