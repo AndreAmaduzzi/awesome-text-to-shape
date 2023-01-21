@@ -21,6 +21,9 @@ This repository collects works which connect text to 3D data. Overall, this coll
 The methods which are able to generate 3D data from text can be categorized by the representation they use.
 
 ### Point Cloud
+* Point-E: A System for Generating 3D Point Clouds from Complex Prompts
+  
+  [ArXiv 2022](https://arxiv.org/abs/2212.08751) | [Code](https://github.com/openai/point-e)
 
 ### Voxel
 * Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings
