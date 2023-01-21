@@ -45,6 +45,8 @@ The methods which are able to generate 3D data from text can be categorized by t
 
 * AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation
 
+  [CVPR 2022](https://arxiv.org/abs/2203.09516) | [Code](https://github.com/yccyenchicheng/AutoSDF/) | [Project](https://yccyenchicheng.github.io/AutoSDF/) 
+
 ### Neural Field
 * DreamFusion
 
