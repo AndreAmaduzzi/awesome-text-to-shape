@@ -53,7 +53,7 @@ The methods which are able to generate 3D data from text can be categorized by t
 
 * ISS: Image as stepping stone for Text-Guided 3D Shape Generation
 
-  [ArXiv 2022] https://arxiv.org/abs/2209.04145 
+  [ArXiv 2022](https://arxiv.org/abs/2209.04145)
 
 ### Neural Field
 * DreamFusion
