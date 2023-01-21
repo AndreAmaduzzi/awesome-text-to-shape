@@ -43,6 +43,8 @@ The methods which are able to generate 3D data from text can be categorized by t
 
   [ArXiv 2022](https://arxiv.org/abs/2207.09446) | [Code](https://github.com/FreddieRao/ShapeCrafter) | [Project](https://ivl.cs.brown.edu/#/projects/shapecrafter)
 
+* AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation
+
 ### Neural Field
 * DreamFusion
 
