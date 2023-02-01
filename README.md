@@ -56,27 +56,27 @@ The methods which are able to generate 3D data from text can be categorized by t
   [ArXiv 2022](https://arxiv.org/abs/2209.04145)
 
 ### Neural Field
-* DreamFusion
+* **DreamFusion**
 
   [ArXiv 2022](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/)
 
-* Magic3D
+* **Magic3D**
 
   [ArXiv 2022](https://arxiv.org/abs/2211.10440) | [Project](https://deepimagination.cc/Magic3D/)
 
-* Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models
+* **Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**
 
   [ArXiv 2022](https://arxiv.org/abs/2212.14704) | [Project](https://bluestyle97.github.io/dream3d/)
 
 
 ## Datasets
-* Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings
+* **Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings**
   
   [Web page](http://text2shape.stanford.edu/)
 
 ## Evaluation Metrics
-* ShapeGlot: Learning Language for Shape Differentiation
+* **ShapeGlot: Learning Language for Shape Differentiation**
 
   [ICCV 2019](https://arxiv.org/pdf/1905.02925.pdf) | [Code](https://github.com/optas/shapeglot) | [Project](https://ai.stanford.edu/~optas/shapeglot/)
 
-* CLIP-Similarity: described in [ShapeCrafter](https://arxiv.org/abs/2207.09446)
+* **CLIP-Similarity**: described in [ShapeCrafter](https://arxiv.org/abs/2207.09446)
