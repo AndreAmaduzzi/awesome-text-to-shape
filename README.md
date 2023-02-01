@@ -78,3 +78,5 @@ The methods which are able to generate 3D data from text can be categorized by t
 * ShapeGlot: Learning Language for Shape Differentiation
 
   [ICCV 2019](https://arxiv.org/pdf/1905.02925.pdf) | [Code](https://github.com/optas/shapeglot) | [Project](https://ai.stanford.edu/~optas/shapeglot/)
+
+* CLIP-Similarity: described in [ShapeCrafter](https://arxiv.org/abs/2207.09446)
