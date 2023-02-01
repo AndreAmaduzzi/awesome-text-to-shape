@@ -73,3 +73,8 @@ The methods which are able to generate 3D data from text can be categorized by t
 * Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings
   
   [Web page](http://text2shape.stanford.edu/)
+
+## Evaluation Metrics
+* ShapeGlot: Learning Language for Shape Differentiation
+
+  [ICCV 2019](https://arxiv.org/pdf/1905.02925.pdf) | [Code](https://github.com/optas/shapeglot) | [Project](https://ai.stanford.edu/~optas/shapeglot/)
