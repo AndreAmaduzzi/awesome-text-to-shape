@@ -56,17 +56,22 @@ The methods which are able to generate 3D data from text can be categorized by t
   [ArXiv 2022](https://arxiv.org/abs/2209.04145)
 
 ### Neural Field
-* **DreamFusion**
+* **DreamFusion: Text-to-3D using 2D Diffusion**
 
   [ArXiv 2022](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/)
 
-* **Magic3D**
+* **Magic3D: High-Resolution Text-to-3D Content Creation**
 
   [ArXiv 2022](https://arxiv.org/abs/2211.10440) | [Project](https://deepimagination.cc/Magic3D/)
 
 * **Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**
 
   [ArXiv 2022](https://arxiv.org/abs/2212.14704) | [Project](https://bluestyle97.github.io/dream3d/)
+
+## Other tasks
+* **CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training**
+
+  [ArXiv 2022](https://arxiv.org/pdf/2210.01055.pdf) | [Project](https://github.com/tyhuang0428/CLIP2Point)
 
 
 ## Datasets
