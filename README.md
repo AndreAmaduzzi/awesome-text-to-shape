@@ -54,6 +54,10 @@ The methods which are able to generate 3D data from text can be categorized by t
 * **ISS: Image as stepping stone for Text-Guided 3D Shape Generation**
 
   [ArXiv 2022](https://arxiv.org/abs/2209.04145)
+  
+* **Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation**  
+
+  [SIGGRAPH Asia 2022](https://arxiv.org/pdf/2302.00190.pdf)
 
 ### Neural Field
 * **DreamFusion: Text-to-3D using 2D Diffusion**
