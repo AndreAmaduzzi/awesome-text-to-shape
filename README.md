@@ -59,10 +59,14 @@ The methods which are able to generate 3D data from text can be categorized by t
 
   [SIGGRAPH Asia 2022](https://arxiv.org/pdf/2302.00190.pdf)
 
-### Neural Field
+### Neural Radiance Fields
 * **DreamFusion: Text-to-3D using 2D Diffusion**
 
   [ArXiv 2022](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/)
+
+* **Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields** 
+ 
+  [ArXiV 2023](https://arxiv.org/pdf/2305.11588.pdf)
 
 * **Magic3D: High-Resolution Text-to-3D Content Creation**
 
