@@ -71,14 +71,14 @@ The methods which are able to generate 3D data from text can be categorized by t
 * **DreamFusion: Text-to-3D using 2D Diffusion**
 
   [ArXiv 2022](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/)
+ 
+* **Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**
+
+  [ArXiv 2022](https://arxiv.org/abs/2212.14704) | [Project](https://bluestyle97.github.io/dream3d/)
 
 * **Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields** 
  
   [ArXiV 2023](https://arxiv.org/pdf/2305.11588.pdf)
-
-* **Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**
-
-  [ArXiv 2022](https://arxiv.org/abs/2212.14704) | [Project](https://bluestyle97.github.io/dream3d/)
 
 ## Other tasks
 * **CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training**
