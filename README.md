@@ -27,7 +27,7 @@ The methods which are able to generate 3D data from text can be categorized by t
 
 * **Neural Shape Compiler: a unified framework for transforming between text, point cloud and program**
 
-  [ArXiv 2022](https://arxiv.org/abs/2212.12952) | [Project](https://tiangeluo.github.io/projectpages/shapecompiler.html)
+  [ArXiv 2022](https://arxiv.org/abs/2212.12952) | [Code](https://github.com/tiangeluo/ShapeCompiler) | [Project](https://tiangeluo.github.io/projectpages/shapecompiler.html)
 
 ### Voxel
 * **Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings**
