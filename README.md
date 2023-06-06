@@ -58,6 +58,10 @@ The methods which are able to generate 3D data from text can be categorized by t
 * **Neural Wavelet-domain Diffusion for 3D Shape Generation, Inversion, and Manipulation**  
 
   [SIGGRAPH Asia 2022](https://arxiv.org/pdf/2302.00190.pdf)
+  
+* **Magic3D: High-Resolution Text-to-3D Content Creation**
+
+  [ArXiv 2022](https://arxiv.org/abs/2211.10440) | [Project](https://deepimagination.cc/Magic3D/)
 
 ### Neural Radiance Fields
 * **DreamFusion: Text-to-3D using 2D Diffusion**
@@ -67,10 +71,6 @@ The methods which are able to generate 3D data from text can be categorized by t
 * **Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields** 
  
   [ArXiV 2023](https://arxiv.org/pdf/2305.11588.pdf)
-
-* **Magic3D: High-Resolution Text-to-3D Content Creation**
-
-  [ArXiv 2022](https://arxiv.org/abs/2211.10440) | [Project](https://deepimagination.cc/Magic3D/)
 
 * **Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models**
 
