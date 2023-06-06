@@ -64,6 +64,10 @@ The methods which are able to generate 3D data from text can be categorized by t
   [ArXiv 2022](https://arxiv.org/abs/2211.10440) | [Project](https://deepimagination.cc/Magic3D/)
 
 ### Neural Radiance Fields
+* **Zero-Shot Text-Guided Object Generation with Dream Fields**
+
+   [CVPR 2022](https://arxiv.org/pdf/2112.01455.pdf) | [Code](https://github.com/google-research/google-research/tree/master/dreamfields) | [Project](https://ajayj.com/dreamfields)
+
 * **DreamFusion: Text-to-3D using 2D Diffusion**
 
   [ArXiv 2022](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/)
